@@ -1,10 +1,15 @@
 <div align="center">
 
-<!-- 紫色渐变头部 -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0:7C3AED,100:A855F7&height=120&section=header"/>
+<!-- 赛博朋克渐变头部 -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,25:0F084B,50:26408B,75:A91079,100:F15BB5&height=180&section=header&text=&fontSize=0"/>
 
-<!-- 打字机效果 -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=32&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&repeat=true&width=500&height=70&lines=Hi+%F0%9F%91%8B+I'm+fyh;Full+Stack+Developer+%F0%9F%9A%80)](https://git.io/typing-svg)
+<!-- 霓虹打字机效果 -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=40&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&repeat=true&width=600&height=80&lines=%E3%80%8C+fyh+%E3%80%8D;%3C+Full+Stack+Developer+%2F%3E;console.log(%22Hello+World%22))](https://git.io/typing-svg)
+
+<br/>
+
+<!-- 霓虹分隔线 -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 </div>
 
