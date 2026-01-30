@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 紫色渐变头部 -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:A855F7,100:7C3AED&height=200&section=header&text=Hi%20%F0%9F%91%8B%20I'm%20fyh&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer&descSize=20&descAlignY=55&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:8B5CF6,50:A855F7,100:7C3AED&height=200&section=header&text=Hi%20%F0%9F%91%8B%20I'm%20fyh&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer&descSize=20&descAlignY=55&descAlign=50"/>
 
 </div>
 
