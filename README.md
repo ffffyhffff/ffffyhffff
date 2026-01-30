@@ -1,7 +1,10 @@
 <div align="center">
 
 <!-- 紫色渐变头部 -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:8B5CF6,50:A855F7,100:7C3AED&height=200&section=header&text=Hi%20%F0%9F%91%8B%20I'm%20fyh&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer&descSize=20&descAlignY=55&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:A855F7&height=120&section=header"/>
+
+<!-- 打字机效果 -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=32&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&repeat=true&width=500&height=70&lines=Hi+%F0%9F%91%8B+I'm+fyh;Full+Stack+Developer+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
